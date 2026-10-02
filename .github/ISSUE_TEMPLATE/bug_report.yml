@@ -1,0 +1,26 @@
+name: Bug report / 问题反馈
+description: Tell us what happened without sharing private notes.
+title: '[Bug] '
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened? / 发生了什么？
+      description: Include steps to reproduce and what you expected. Do not paste private note contents.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App version / App 版本
+      placeholder: 0.1.0
+  - type: input
+    id: system
+    attributes:
+      label: Mac and macOS version / 机型和系统版本
+      placeholder: MacBook Air M2, macOS 15
+  - type: textarea
+    id: context
+    attributes:
+      label: Anything else? / 其他信息
+      description: Screenshots are optional. Remove personal data first.
