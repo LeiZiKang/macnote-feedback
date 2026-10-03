@@ -4,6 +4,8 @@ A small floating notepad for Mac. Click the plus, capture a thought, and return 
 
 This is the public feedback and download hub. The app source is maintained separately; this repository does not imply an open-source license for the app.
 
+[Website and download](https://mindnotes-by-levi.green-grove-7200.chatgpt.site) · [Private feedback form](https://docs.google.com/forms/d/e/1FAIpQLScxxKEE4XlyiHdQt0t1ja-c1VUP_c9GjADvkSxy5NU513l9Zw/viewform)
+
 ## Try it
 
 MindNotes 0.2.0 is a free early beta for **Apple Silicon Macs on macOS 15 or later**. The app supports **English and Simplified Chinese**, light/dark/system appearance, and ordinary **Markdown** files. Notes and drafts are stored locally; there is no iCloud sync, iPhone app, telemetry or app account.
